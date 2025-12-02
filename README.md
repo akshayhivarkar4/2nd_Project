@@ -1,2 +1,2 @@
 # 2nd_Project
-Supply chain management
+Supply chain management(Inventory)
